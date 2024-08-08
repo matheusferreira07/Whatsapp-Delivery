@@ -4,7 +4,7 @@ const MENU = [
     data: [
       {
         id: "1",
-        title: "X-React",
+        title: "X-Tudo completo",
         price: 24.9,
         description:
           "Um hamburger tão bonito que me deu fome enquanto eu fazia esse layout para o projeto...",
@@ -28,7 +28,7 @@ const MENU = [
     data: [
       {
         id: "2",
-        title: "X-JavaScript",
+        title: "X-Frango com Bacon",
         price: 34.9,
         description:
           "Os ingredientes desse hambúrguer mudam toda semana, então você sempre terá uma surpresa...",
@@ -90,7 +90,7 @@ const MENU = [
     data: [
       {
         id: "5",
-        title: "Sorvete com Brownie",
+        title: "Sorvete com Brownie Doce de Leite caseiro",
         price: 18.9,
         description:
           "Uma sobremesa deliciosa para saborear. Escolha o sorvete e a calda que desejar...",
@@ -104,7 +104,7 @@ const MENU = [
       },
       {
         id: "6",
-        title: "Cupcake",
+        title: "Cupcake de chocolate",
         price: 22.9,
         description:
           "Um delicioso Cupcake para adoçar. Escolha o sabor que você gosta...",
@@ -119,7 +119,7 @@ const MENU = [
     data: [
       {
         id: "7",
-        title: "Hmmm, coquinha!",
+        title: "Coca-cola Lata 350 ml",
         price: 6.9,
         thumbnail: require("../../assets/products/thumbnail/7.png"),
         cover: require("../../assets/products/cover/7.png"),
